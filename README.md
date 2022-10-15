@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rituj.
 - 👀 I’m interested in Big Data & Data Engineering.
 - 🌱 I’m currently learning Big Data (Hive, Kafka, Spark, AWS, ...)
-- ✍️ T write blogs on my learnings, so do check it out - https://ritujsrivastava.hashnode.dev/
+- ✍️ I write blogs on my learnings, so do check it out - https://ritujsrivastava.hashnode.dev/
 - 💞️ I’d love to discuss on Big Data, so hit me up on my mail
 - 📫 How to reach me - (rituj1103@gmail.com).
 
