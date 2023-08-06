@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rituj.
-- 👀 I’m interested in Big Data & Data Engineering.
-- 🌱 I’m currently learning Big Data (Hive, HBase, Kafka, Spark, AWS, ...)
+- 👀 I’m skilled and have industrial exposure with HTML, CSS, JavaScript, SQL and Salesforce Marketing Cloud.
+- 🌱 I’m also interested in Data Engineering and have knowledge in Hadoop, Hive, Kafka, PySpark, AWS and Airflow.
 - ✍️ I write blogs covering my learnings, so do check it out - https://ritujsrivastava.hashnode.dev/
-- 💞️ I’d love to discuss on Big Data, so hit me up on my mail
+- Linkedin - https://www.linkedin.com/in/rituj-srivastava/
 - 📫 How to reach me - (rituj1103@gmail.com).
 
 <!---
